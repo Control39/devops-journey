@@ -1,5 +1,5 @@
 # Мой DevOps Journey
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](.github/SECURITY.md)
+- [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](.github/SECURITY.md)
 
 Привет, я Катя,  
 Это мой учебный проект по автоматизации создания виртуальной машины в [Yandex Cloud](https://cloud.yandex.ru) с помощью Python.
@@ -9,9 +9,11 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![Yandex.Cloud](https://img.shields.io/badge/Yandex.Cloud-CLI-orange?logo=yandex)]
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+- [![Python](https://img.shields.io/badge/Python-3.8+-%233776AB?logo=python)](https://www.python.org/)
+- [![Yandex.Cloud](https://img.shields.io/badge/Yandex.Cloud-CLI-orange?logo=yandex)](https://cloud.yandex.ru/)
+- [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+- [![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)](https://www.terraform.io/)
+- [![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)](https://kubernetes.io/)
 
 ---
 
