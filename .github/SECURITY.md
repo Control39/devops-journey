@@ -1,4 +1,3 @@
-```markdown
 # Security Policy for DevOps Journey
 
 ## 🛡️ Reporting Vulnerabilities
