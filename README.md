@@ -1,4 +1,5 @@
 # Мой DevOps Journey
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](.github/SECURITY.md)
 
 Привет, я Катя,  
 Это мой учебный проект по автоматизации создания виртуальной машины в [Yandex Cloud](https://cloud.yandex.ru) с помощью Python.
@@ -247,7 +248,7 @@ yc vpc security-group update default --add-rule port=80
 
 ---
 
-> 💡 *Хотите помочь с реализацией? Форкайте репозиторий или пишите в Issues!*
+>  *Хотите помочь с реализацией? Форкайте репозиторий или пишите в Issues!*
 ```
 
 ## Ознакомление с условиями
@@ -259,6 +260,10 @@ yc vpc security-group update default --add-rule port=80
 - Идентификатор моего платёжного аккаунта: `dn2odjekq8o9ihh7hbhv`
 
 ---
+##  Security
+- Vulnerability reporting: See [SECURITY.md](.github/SECURITY.md)
+- Automated scans: Dependabot + CodeQL
 
+- Automated scans: Dependabot + CodeQL
 > Понравился гайд?  
 > Оставьте комментарий в [сообществе Яндекс.Облака](https://cloud.yandex.ru/community)!
