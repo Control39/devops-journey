@@ -1,9 +1,9 @@
 # 🚀 DevOps Journey
 
-- [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](.github/SECURITY.md)
-- [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-- [![Yandex.Cloud](https://img.shields.io/badge/Yandex.Cloud-CLI-orange?logo=yandex)](https://cloud.yandex.ru/)
-- [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](.github/SECURITY.md)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+[![Yandex.Cloud](https://img.shields.io/badge/Yandex.Cloud-CLI-orange?logo=yandex)](https://cloud.yandex.ru/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Проект для изучения DevOps практик на Yandex Cloud. Автоматизированное создание виртуальных машин, настройка инфраструктуры и деплой приложений.
 
@@ -15,12 +15,10 @@ graph TD
     D --> E[Доступ к серверу]
 ```
 
-
 ## 🚀 Быстрый старт
 
 > **Прежде чем начать:**  
 > Убедитесь, что у вас есть аккаунт в [Yandex Cloud](https://cloud.yandex.ru/)
-
 
 1. **📥 Устанавливаем Yandex Cloud CLI**  
    ```bash
@@ -124,8 +122,3 @@ ci-cd/
 ## 📜 Лицензия
 Этот проект распространяется под лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 Вы можете свободно использовать, изменять и распространять материалы с указанием авторства.
-
----
-  
-
-
